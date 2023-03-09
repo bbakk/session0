@@ -1,0 +1,40 @@
+body {
+    background-color: #222;
+    background-image: url("https://i.pinimg.com/564x/f7/f4/b1/f7f4b1eeccc38d765f5c56d0702e9500.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+mark{
+    color: rgb(250, 250, 250);
+    background-color: rgb(33, 65, 29);
+}
+li{
+    list-style: none;
+    font-size: 30px;
+    font-weight: 700;
+}
+.testclass1{
+    font-size: 15;
+    margin-bottom: 400;
+}
+.item-lists{
+    width: 100%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+.item{
+    padding:20px;
+    background: darkcyan;
+    border: 3px;
+    border-radius: 5px;
+} 
+.item-bg{
+    width:fit-content;
+    height: fit-content;
+    border-radius: 5px;
+    border: 3px;
+   
+}
